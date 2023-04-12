@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0-windows</TargetFramework>
+    <RootNamespace>MultiThreading.Task1._100Tasks</RootNamespace>
+    <StartupObject>MultiThreading.Task1._100Tasks.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

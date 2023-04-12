@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>MultiThreading.Task3.MatrixMultiplier</RootNamespace>
+    <AssemblyName>MultiThreading.Task3.MatrixMultiplier</AssemblyName>
+    <StartupObject>MultiThreading.Task3.MatrixMultiplier.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>

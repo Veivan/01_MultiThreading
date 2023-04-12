@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>MultiThreading.Task2.Chaining</RootNamespace>
+    <StartupObject>MultiThreading.Task2.Chaining.Program</StartupObject>
+  </PropertyGroup>
+
+</Project>
